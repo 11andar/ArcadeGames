@@ -8,7 +8,7 @@ This directory contains the code for a classic Pong game implemented in Python u
 
 ## Usage
 
-To play the Pong game, simply run the `pong.py` file using Python. You can customize the game settings and controls within the code itself.
+To play the Pong game, simply run the `main.py` file using Python. You can customize the game settings and controls within the code itself.
 
 ## Controls
 
